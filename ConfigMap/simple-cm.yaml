@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: test-cm
+  namespace: default
+data:
+  allowed: 'testttt'
+  enemies: aliens
+  lives: "3"
