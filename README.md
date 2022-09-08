@@ -3,35 +3,6 @@
 A curated Kubernetes collection for various understanding, debugging and testing.
 
 
-### Kubernetes Resource-Wise - Quick Access:
-1. ConfigMap
-2. CRD
-3. DaemonSet
-4. Deployment
-5. Jobs and CronJobs
-6. LimitRange
-7. Namespace
-8. Pod
-9. PV and PVC
-10. ReplicaSets
-11. ResourceQuota
-12. Secrets
-13. Service
-14. StatefulSets
-15. StorageClass
-
-
-### Kubernetes Concepts - Quick Access:
-[ManagedLifecycle](https://github.com/k8spatterns/examples/tree/main/foundational/ManagedLifecycle) 
-[HealthProbes](https://github.com/k8spatterns/examples/tree/main/foundational/HealthProbe)
-[Node Selector](https://github.com/k8spatterns/examples/tree/main/foundational/AutomatedPlacement)
-Node Affinity
-Pod Affinity 
-Taints and Tolerations
-QoS
-
-
-
 ### Interesting References:
 
 #### K8s on Production
@@ -61,5 +32,31 @@ QoS
 
 
 
+### Kubernetes Resource-Wise - Quick Access:
+1. ConfigMap
+2. CRD
+3. DaemonSet
+4. Deployment
+5. Jobs and CronJobs
+6. LimitRange
+7. Namespace
+8. Pod
+9. PV and PVC
+10. ReplicaSets
+11. ResourceQuota
+12. Secrets
+13. Service
+14. StatefulSets
+15. StorageClass
+
+
+### Kubernetes Concepts - Quick Access:
+1. [ManagedLifecycle](https://github.com/k8spatterns/examples/tree/main/foundational/ManagedLifecycle) 
+2. [HealthProbes](https://github.com/k8spatterns/examples/tree/main/foundational/HealthProbe)
+3. [Node Selector](https://github.com/k8spatterns/examples/tree/main/foundational/AutomatedPlacement)
+4. Node Affinity
+5. Pod Affinity 
+6. Taints and Tolerations
+7. QoS
 
 
