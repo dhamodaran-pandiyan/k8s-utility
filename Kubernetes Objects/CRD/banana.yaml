@@ -1,0 +1,8 @@
+apiVersion: user.k8sasdb.org/v1
+kind: Fruit
+metadata:
+  name: banana
+spec:
+  sweetness: true
+  weight: 80
+  comment: just bought at Trador Joe's

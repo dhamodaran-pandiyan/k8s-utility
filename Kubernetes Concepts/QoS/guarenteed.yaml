@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: guarenteed
+spec:
+  containers:
+  - name: nginx
+    image: nginx
+    resources:
+      limits:
+        memory: "100Mi"
+        cpu: "100m"
+      requests:
+        memory: "100Mi"
+        cpu: "100m"

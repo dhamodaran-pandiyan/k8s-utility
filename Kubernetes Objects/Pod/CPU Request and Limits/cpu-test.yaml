@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: cpu-demo
+spec:
+  containers:
+  - name: cpu
+    image: busybox
+    resources:
+      limits:
+        cpu: "1"
+      requests:
+        cpu: "0.5"

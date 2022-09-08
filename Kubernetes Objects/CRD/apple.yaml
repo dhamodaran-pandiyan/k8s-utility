@@ -1,0 +1,8 @@
+apiVersion: user.k8sasdb.org/v1
+kind: Fruit
+metadata:
+  name: apple
+spec:
+  sweetness: false
+  weight: 100
+  comment: little bit rotten

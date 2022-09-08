@@ -1,0 +1,12 @@
+apiVersion: db.testt.org/v1
+kind: Table
+metadata:
+  name: fruit
+spec:
+  columns:
+  - name: sweetness
+    type: boolean
+  - name: weight
+    type: integer
+  - name: comment
+    type: string
