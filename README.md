@@ -1,6 +1,6 @@
 # About
 
-A curated Kubernetes collection for various understanding, debugging and testing.
+A curated collection for various understanding, debugging and testing related to Kubernetes.
 
 
 ### Interesting References:
