@@ -4,10 +4,7 @@ A curated collection of K8s utility files for various debugging and testing.
 
 
 
-Perform common configuration tasks for Pods and containers.
-https://kubernetes.io/docs/tasks/configure-pod-container/_print/#pg-ed34e761c3dbd00fa79577fa78e30020
-
-### Kubernetes Resource-Wise Utility:
+### Kubernetes Resource-Wise - Quick Access:
 1. Pod
 2. ConfigMap
 3. Persistent Volume
@@ -16,11 +13,14 @@ https://kubernetes.io/docs/tasks/configure-pod-container/_print/#pg-ed34e761c3db
 6. Namespace
 
 
-### Kubernetes Concepts:
-[ManagedLifecycle](https://github.com/k8spatterns/examples/tree/main/foundational/ManagedLifecycle)
+### Kubernetes Concepts - Quick Access:
+1. [ManagedLifecycle](https://github.com/k8spatterns/examples/tree/main/foundational/ManagedLifecycle) 
+2. [HealthProbe](https://github.com/k8spatterns/examples/tree/main/foundational/HealthProbe)
+3. [Node Selector / Node Affinity / Pod Affinity / Taints and Tolerations](https://github.com/k8spatterns/examples/tree/main/foundational/AutomatedPlacement)
 
-[HealthProbe](https://github.com/k8spatterns/examples/tree/main/foundational/HealthProbe)
 
-[Node Selector / Node Affinity / Pod Affinity / Taints and Tolerations](https://github.com/k8spatterns/examples/tree/main/foundational/AutomatedPlacement)
+
+
+
 
 
