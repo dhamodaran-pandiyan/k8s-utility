@@ -19,11 +19,14 @@ A curated collection for various understanding, debugging and testing related to
 6. [Kubernetes deep dive: API Server](https://cloud.redhat.com/blog/kubernetes-deep-dive-api-server-part-1)
 
 #### Awesome K8s repo
+###### Demo & Examples:
 1. [K8s-Patterns](https://github.com/k8spatterns/examples)
 2. [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
 3. [Kubernetes - The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 4. [a Docker + Kubernetes network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
 5. [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
+###### K8s Visualization:
+1. [KubeView](https://artifacthub.io/packages/helm/kubeview/kubeview)
 
 #### Notable K8s Demo applications
 1. [Demo application for "Kubernetes Up and Running"](https://github.com/kubernetes-up-and-running/kuard)
