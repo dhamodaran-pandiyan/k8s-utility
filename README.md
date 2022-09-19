@@ -52,7 +52,7 @@ A curated collection for various understanding, debugging and testing related to
 14. StatefulSets
 15. StorageClass
 
-
+  
 ### Kubernetes Concepts - Quick Access:
 1. [ManagedLifecycle](https://github.com/k8spatterns/examples/tree/main/foundational/ManagedLifecycle) 
 2. [HealthProbes](https://github.com/k8spatterns/examples/tree/main/foundational/HealthProbe)
