@@ -1,6 +1,6 @@
 # About
 
-A curated collection for various understanding, debugging and testing related to Kubernetes.
+A curated collection for various YAMLs for understanding, debugging and testing for Kubernetes.
 
 
 ### Kubernetes Resource-Wise - Quick Access:
@@ -31,7 +31,7 @@ A curated collection for various understanding, debugging and testing related to
 7. QoS
 
 
-### Interesting References:
+### References:
 
 #### K8s on Production
 1. [A compiled list of links to public failure stories related to Kubernetes.](https://k8s.af/)
