@@ -2,7 +2,7 @@
 
 A curated collection for various YAMLs for understanding, debugging and testing for Kubernetes.
 
-
+---
 ### Kubernetes Resource-Wise - Quick Access:
 1. [ConfigMap](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8_objects/ConfigMap)
 2. [CRD](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8_objects/CRD)
@@ -20,7 +20,7 @@ A curated collection for various YAMLs for understanding, debugging and testing 
 14. [StatefulSets](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8_objects/StatefulSets)
 15. [StorageClass](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8_objects/StorageClass)
 
-  
+---
 ### Kubernetes Concepts - Quick Access:
 1. [ManagedLifecycle](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8s_concepts/ManagedLifecycle) 
 2. [HealthProbes](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8s_concepts/HealthProbes)
@@ -29,12 +29,13 @@ A curated collection for various YAMLs for understanding, debugging and testing 
 5. [Taints and Tolerations](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8s_concepts/TaintandTolerations)
 6. [QoS](https://github.com/dhamodaran-pandiyan/k8s-utility/tree/main/k8s_concepts/QoS)
 
+---
 ### Notable K8s Demo applications
 1. [Demo application for "Kubernetes Up and Running"](https://github.com/kubernetes-up-and-running/kuard)
 2. [Random Generator Service (example used in "Kubernetes Patterns" examples)](https://github.com/k8spatterns/random-generator)
 3. [Guestbook and Wordpress](https://github.com/kubernetes/examples)
 
-
+---
 ### References:
 
 #### K8s on Production
@@ -52,6 +53,6 @@ A curated collection for various YAMLs for understanding, debugging and testing 
 8. [Kubernetes - The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 9. [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
 10. [K8s-Patterns](https://github.com/k8spatterns/examples)
-
+---
 
 
